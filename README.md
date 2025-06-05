@@ -10,9 +10,9 @@ This is a capstone project made using Pygame that required us to use AI to assis
 - Powerups
 
 ## Setup
-Download endless_space_shooter.exe from the [latest release](https://github.com/caseyhess/endless_space_shooter/releases) and simply run it!
+Download endless_space_shooter.exe from the [latest release](https://github.com/caseyhess/endless-space-shooter/releases) and simply run it!
 
-If you would like to run the python file instead download endless_space_shooter.py from the [latest release](https://github.com/caseyhess/endless_space_shooter/releases) and follow the steps below:
+If you would like to run the python file instead download endless_space_shooter.py from the [latest release](https://github.com/caseyhess/endless-space-shooter/releases) and follow the steps below:
 - Open the terminal.
 - Run `python --version` to ensure python is installed and up to date.
 - Run `pip --version` to make sure pip is installed.
@@ -21,5 +21,5 @@ If you would like to run the python file instead download endless_space_shooter.
 - Enjoy!
 
 ## License
-Full license available [here](https://github.com/caseyhess/endless_space_shooter/blob/main/LICENSE)
+Full license available [here](https://github.com/caseyhess/endless-space-shooter/blob/main/LICENSE)
 #### This project is licensed under the terms of the **MIT** license.
